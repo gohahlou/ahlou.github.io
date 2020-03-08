@@ -1,4 +1,4 @@
 
 remote_theme : mmistakes/minimal-mistakes
-url                      : "https://gohahlou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gohahlou.github.io/ahlou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
